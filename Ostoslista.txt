@@ -1,5 +1,5 @@
 Ostolista
-- Tavara
+- Muokkaus
 - Peruna
 - Voi
 - Maito
