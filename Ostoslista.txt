@@ -6,4 +6,4 @@ Ostolista
 - Suola
 - Kinkku
 - Leipä
-- Toinen tavara
+- Uusi tavara
