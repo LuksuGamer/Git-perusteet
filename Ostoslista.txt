@@ -1,7 +1,9 @@
 Ostolista
+- Tavara
 - Peruna
 - Voi
 - Maito
 - Suola
 - Kinkku
 - Leipä
+- Toinen tavara
