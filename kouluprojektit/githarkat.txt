@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Terveisiä mun koneelta
+=======
+Terveisiä GithHubista!
+>>>>>>> 89a8d94408dbb13752ba4b92e61895cabea0f3ce
 
